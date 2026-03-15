@@ -1,4 +1,5 @@
 torch
 transformers
-pandas
-pydantic
+fastapi
+uvicorn
+python-multipart
