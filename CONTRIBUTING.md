@@ -1,13 +1,3 @@
-# Documentation
+# Contributing to semantic document parser
 
-Generated documentation for chicken-parse.
-
-# Touch update: 1760919828
-
-# Touch update: 1760919829
-
-# Touch update: 1760919829
-
-# Touch update: 1760919829
-
-# Touch update: 1760919829
+We welcome contributions! Please follow the standard Pull Request process. Ensure all code passes linting and unit tests.
